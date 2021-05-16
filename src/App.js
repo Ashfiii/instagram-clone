@@ -1,12 +1,12 @@
 import React, {useEffect, useState} from 'react';
 import './App.css';
 import img from './image/Instagram_logo.png';
-import Post from './Post';
+import Post from './components/Post/Post';
 import {db, auth} from './firebase';
 import { makeStyles } from '@material-ui/core/styles';
 import Modal from '@material-ui/core/Modal';
 import { Button, Input } from '@material-ui/core';
-import ImageUpload from './ImageUpload';
+import ImageUpload from './components/ImageUpload/ImageUpload';
 import InstagramEmbed from 'react-instagram-embed';
 
 const url='https://www.instagram.com/p/CEl4u9UgWlV/';
