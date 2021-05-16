@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/disney/static/css/main.3e2dc902.chunk.css",
+    "main.js": "/disney/static/js/main.7ea3c80c.chunk.js",
+    "main.js.map": "/disney/static/js/main.7ea3c80c.chunk.js.map",
+    "runtime-main.js": "/disney/static/js/runtime-main.88406ab4.js",
+    "runtime-main.js.map": "/disney/static/js/runtime-main.88406ab4.js.map",
+    "static/js/2.e30d1d5d.chunk.js": "/disney/static/js/2.e30d1d5d.chunk.js",
+    "static/js/2.e30d1d5d.chunk.js.map": "/disney/static/js/2.e30d1d5d.chunk.js.map",
+    "index.html": "/disney/index.html",
+    "precache-manifest.4103784dc3098703bd6603bb70b01055.js": "/disney/precache-manifest.4103784dc3098703bd6603bb70b01055.js",
+    "service-worker.js": "/disney/service-worker.js",
+    "static/css/main.3e2dc902.chunk.css.map": "/disney/static/css/main.3e2dc902.chunk.css.map",
+    "static/js/2.e30d1d5d.chunk.js.LICENSE.txt": "/disney/static/js/2.e30d1d5d.chunk.js.LICENSE.txt",
+    "static/media/Instagram_logo.png": "/disney/static/media/Instagram_logo.dcc389e5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88406ab4.js",
+    "static/js/2.e30d1d5d.chunk.js",
+    "static/css/main.3e2dc902.chunk.css",
+    "static/js/main.7ea3c80c.chunk.js"
+  ]
+}
